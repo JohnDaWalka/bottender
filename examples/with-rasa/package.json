@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@bottender/rasa": "latest",
-    "axios": "^0.19.0",
+    "axios": "^1.13.5",
     "bottender": "latest"
   }
 }
